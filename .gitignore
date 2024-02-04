@@ -9,3 +9,4 @@ __pycache__/
 *.pyc
 input.txt
 data/scifi/scifi.txt
+data/scifi/goethe.txt
